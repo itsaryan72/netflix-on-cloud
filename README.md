@@ -46,7 +46,7 @@ This project leverages **Amazon QuickSight** to create an interactive, cloud-bas
 
 ## 🖼️ Dashboard Preview
 
-> *Embed screenshots or GIFs of your dashboard here for visual reference.*
+> 📄 [View Dashboard PDF](./dashboard.pdf)
 
 ---
 
