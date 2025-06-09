@@ -2,6 +2,8 @@
 
 This project leverages **Amazon QuickSight** to create an interactive, cloud-based dashboard for visualizing a dataset of Netflix titles. The dashboard offers insights into trends like content category distribution, release patterns, and recent additions.
 
+![Dashboard Preview](./img.png)
+
 ---
 
 ## 🔧 Tools Used
